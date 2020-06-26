@@ -1,0 +1,24 @@
+{
+  "config": {
+    "maxLife": 5,
+    "currentLife": 5
+  },
+  "map": [
+      {
+        "enemy": 0,
+        "velo": 10
+      },
+      {
+        "enemy": 1,
+        "velo": 30
+      },
+      {
+        "enemy": 1,
+        "velo": 15
+      },
+      {
+        "enemy": 2,
+        "velo": 40
+      }
+  ]
+}
