@@ -1,9 +1,7 @@
 <h1 align="center">Imersão Gamedev JavaScript</h1>
-<div>
-  <img src="assets-README/home.png" alt="Imagem da tela inicial do game" width="500px" />&nbsp;&nbsp;
-  <img src="assets-README/game1.png" alt="Imagem do game" width="400px" />
-  <img src="assets-README/game2.png" alt="Imagem do game" width="400px" />
-</div>
+<img src="assets-README/home.png" alt="Imagem da tela inicial do game" width="800px" />
+<img src="assets-README/game1.png" alt="Imagem do game" width="800px" />
+<img src="assets-README/game2.png" alt="Imagem do game" width="800px" />
 Esse game, denominado de "As aventuras de Hipsta, a bruxinha do bem" foi um projeto desenvolvido durante a semana Imersão Gamedev🕹️ JavaScript, realizada pela Alura!
 <br/><br/>
 
@@ -35,7 +33,7 @@ draw(){
 <br/><br/>
 <h2>Informações</h2>
 Para mais informações, acesse o <a href="https://p5js.org/">P5.js</a>, lá será explicado tanto sobre a documentação completa,<br/>
-quanto sobre como utilizar o próprio editor onlie deles (onde eu produzi o meu).
+quanto sobre como utilizar o próprio editor onlie deles (onde eu produzi o meu).<br/>
 <a href="https://editor.p5js.org/Aristiklever-R-Sousa/full/0FWTX7Tmji">Aqui está o link do meu game!</a> (Obd.: Ainda está em fase de desenvolvimento)
 <br/><br/>
 
