@@ -30,11 +30,19 @@ draw(){
 }
 ```
 
-<br/><br/>
+<h2> 🤔 Como contribuir? </h2>
+
+- Faça um Fork desse repositório;
+- Crie uma branch com a sua feature: `git checkout -b my-feature`
+- Commit suas mudanças: `git commit -m 'feat: My new feature'`
+- Push a sua branch: `git push origin my-feature`
+
 <h2>Informações</h2>
 Para mais informações, acesse o <a href="https://p5js.org/">P5.js</a>, lá será explicado tanto sobre a documentação completa,<br/>
 quanto sobre como utilizar o próprio editor onlie deles (onde eu produzi o meu).<br/>
 <a href="https://editor.p5js.org/Aristiklever-R-Sousa/full/0FWTX7Tmji">Aqui está o link do meu game!</a> (Obd.: Ainda está em fase de desenvolvimento)
 <br/><br/>
+
+---
 
 <p align="center">Feito com muito ❤ por mim, Aristiklever Sousa😊.</p>
