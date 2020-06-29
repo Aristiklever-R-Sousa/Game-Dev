@@ -1,7 +1,8 @@
 <h1 align="center">Imersão Gamedev JavaScript</h1>
-<img src="assets-README/home.png" alt="Imagem da tela inicial do game" />
-<img src="assets-README/game1.png" alt="Imagem do game" />
-Projeto desenvolvido durante a semana Imersão Gamedev🕹️ JavaScript, realizada pela Alura!
+<img src="assets-README/home.png" alt="Imagem da tela inicial do game" width="800px" />
+<img src="assets-README/game1.png" alt="Imagem do game" width="800px" />
+<img src="assets-README/game2.png" alt="Imagem do game" width="800px" />
+Esse game, denominado de "As aventuras de Hipsta, a bruxinha do bem" foi um projeto desenvolvido durante a semana Imersão Gamedev🕹️ JavaScript, realizada pela Alura!
 <br/><br/>
 
 <h2>O que é o P5.js?</h2>
